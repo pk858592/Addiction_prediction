@@ -2,6 +2,8 @@
 
 A powerful, privacy-friendly app designed to help users regain control over their social media usage, build healthier digital habits, and improve focus and productivity.
 
+Use the app by clicking on this link : https://addictionprediction-9e9o7oaxnglqdxvskdfaez.streamlit.app/
+
 🚀 Overview
 
 The Social Media Addiction App helps users:
